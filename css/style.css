@@ -48,6 +48,55 @@ font-family: 'Roboto', sans-serif; */
     color: #3E3E3E;
 }
 
+/* Carousel Section  */
+
+.banner{
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 584px;
+    background-color: rgba(0, 0, 0 ,0.4);
+    background-blend-mode: overlay;
+    text-align: center;
+    color: white;
+    font-family: Poppins;
+    line-height: 2;
+
+}
+
+.banner h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.banner p{
+    font-weight: 300;
+    font-size: 16px;
+    padding: 0 20%;
+}
+
+.banner a button{
+    background-color: white;
+    color: #3F87F5;
+    padding: 10px 43px;
+    border-color: transparent;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.banner-1{
+    background-image: url(../img/unsplash/wedding-11.jpg);
+}
+.banner-2{
+    background-image: url(../img/unsplash/wedding-9.jpg);
+}
+.banner-3{
+    background-image: url(../img/unsplash/wedding-7.jpg);
+}
+
 
 
 
