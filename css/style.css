@@ -46,7 +46,6 @@ font-family: 'Roboto', sans-serif; */
     font-size: 16px;
     color: #3E3E3E;
 }
-
 /* Carousel Section  */
 
 .banner{
@@ -105,6 +104,78 @@ font-family: 'Roboto', sans-serif; */
 /* Main Section Starts  */
 
 
+
+/* Second Section  */
+
+
+
+
+.second-section-heading{
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+
+
+.package-card{
+    border-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.package-price{
+    font-family: Roboto;
+    font-weight: 700;
+    color: #231D4F;
+}
+
+.package-name{
+      font-family: Roboto;
+    font-weight: 700;
+    color: #130e3b;
+}
+
+.package-info{
+    font-family: Poppins;
+    font-weight: 400;
+    color: #848199;
+}
+
+.fa-check-circle{
+    color: #5243C2;
+}
+
+.package-feature{
+    margin-bottom: 25px;
+}
+
+.package-button{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    background-color: #fef5fa;
+    color: #3F87F5;
+    padding: 15px 60px;
+    font-family: Roboto;
+    font-weight: 700;
+    border-radius: 25px;
+}
+
+.hot-card{
+    background-color: #3F87F5;
+    border-radius: 26px;
+    color: white;
+    transform: scale(1.1,1.1);
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+
+.hot-badge{
+    position: absolute;
+    top: -15px;
+    right: 0;
+}
 
 
 /* Main Section Ends */
