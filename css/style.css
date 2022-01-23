@@ -178,12 +178,27 @@ font-family: 'Roboto', sans-serif; */
 }
 
 
+.faq{
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+/* .faq-img{
+    width: 100%;
+    border-radius: 10px;
+} */
+
+
 /* Main Section Ends */
 
 
 
 /* Footer Section Starts  */
 
+.footer-section{
+    background-color: #0B0D17;
+    height: 280px;
+}
 
 
 /* Footer Section Ends  */
