@@ -32,7 +32,6 @@ font-family: 'Roboto', sans-serif; */
 .convention-center-name{
     font-family: Poppins;
     font-weight: 700;
-    font-size: 22px;
     color: #3E3E3E;
 }
 
@@ -55,28 +54,27 @@ font-family: 'Roboto', sans-serif; */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 584px;
     background-color: rgba(0, 0, 0 ,0.4);
     background-blend-mode: overlay;
     text-align: center;
     color: white;
     font-family: Poppins;
     line-height: 2;
+    min-height: 586px;
 
 }
 
-.banner h1{
+.banner > div > h1{
     font-weight: 600;
-    font-size: 48px;
 }
 
-.banner p{
+.banner > div p{
     font-weight: 300;
     font-size: 16px;
     padding: 0 20%;
 }
 
-.banner a button{
+.banner > a > button{
     background-color: white;
     color: #3F87F5;
     padding: 10px 43px;
@@ -88,15 +86,14 @@ font-family: 'Roboto', sans-serif; */
 }
 
 .banner-1{
-    background-image: url(../img/unsplash/wedding-11.jpg);
+    background-image: url(../img/unsplash/wedding-11_x584.jpg);
 }
 .banner-2{
-    background-image: url(../img/unsplash/wedding-9.jpg);
+    background-image: url(../img/unsplash/wedding-9_x584.jpg);
 }
 .banner-3{
-    background-image: url(../img/unsplash/wedding-7.jpg);
+    background-image: url(../img/unsplash/wedding-7_x584.jpg);
 }
-
 
 
 
