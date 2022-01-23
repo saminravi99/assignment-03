@@ -1,5 +1,15 @@
 /* Google Fonts  */
 
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+
+/* Font Awesome  */
+
+/* <i class="far fa-check-circle"></i> */
+/* <i class="fas fa-gift"></i> */
+/* <i class="fas fa-arrow-right"></i> */
+
 
 
 
@@ -15,6 +25,28 @@
 
 
 /* Header Section Starts  */
+
+
+/* Navigation Bar Section  */
+
+.convention-center-name{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 22px;
+    color: #3E3E3E;
+}
+
+
+.menu-items li{
+    margin-right: 26px;
+}
+
+.menu-items li a{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    color: #3E3E3E;
+}
 
 
 
