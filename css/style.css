@@ -8,6 +8,7 @@
 
 /* Navigation Bar Section  */
 
+
 .convention-center-name{
     font-family: Poppins;
     font-weight: 700;
@@ -119,6 +120,10 @@
 
 /* Second Section  */
 
+
+.second-section{
+    overflow-x: hidden;
+}
 
 
 
