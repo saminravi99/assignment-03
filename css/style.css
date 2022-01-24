@@ -129,6 +129,10 @@ font-family: 'Roboto', sans-serif; */
     right: 0;
 }
 
+.discount-toast > div{
+    border-left: 7px solid #3F87F5;
+}
+
 
 
 /* Second Section  */
@@ -207,8 +211,28 @@ font-family: 'Roboto', sans-serif; */
 
 /* Bonus / Third Section   */
 
+.client-review-heading{
+    font-family: Poppins;
+    font-weight: 600;
+    color: #222221;
+}
 
+.client-review-details p{
+    font-family: Poppins;
+    font-weight: 400;
+    color: #6C6C6C;
+}
 
+.client-review-details h4{
+    font-family: Poppins;
+    font-weight: 600;
+    color: #0C1920;
+}
+.client-review-details h5{
+    font-family: Poppins;
+    font-weight: 600;
+    color: #3E3E3E;
+}
 
 
 
