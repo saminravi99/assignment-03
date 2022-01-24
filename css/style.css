@@ -105,6 +105,32 @@ font-family: 'Roboto', sans-serif; */
 
 
 
+
+/* Bonus / First Section  */
+
+
+
+.first-section{
+    position: relative;
+}
+
+.subscribe-text{
+    font-family: Poppins;
+    font-weight: 700;
+    color: #0A0826;
+}
+
+
+
+
+.discount-toast{
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+
+
+
 /* Second Section  */
 
 
@@ -178,15 +204,22 @@ font-family: 'Roboto', sans-serif; */
 }
 
 
+
+/* Bonus / Third Section   */
+
+
+
+
+
+
+/* Fourth Section  */
+
+
 .faq{
     font-family: Poppins;
     font-weight: 600;
 }
 
-/* .faq-img{
-    width: 100%;
-    border-radius: 10px;
-} */
 
 
 /* Main Section Ends */
