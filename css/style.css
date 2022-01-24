@@ -21,7 +21,9 @@ font-family: 'Roboto', sans-serif; */
 
 /* Common Styles Ends */
 
+/* Google Fonts  */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
 
 
 /* Header Section Starts  */
@@ -247,6 +249,17 @@ font-family: 'Roboto', sans-serif; */
     font-weight: 600;
 }
 
+.faq-questions button{
+    font-family: Inter;
+    font-weight: 500;
+    color: #383838;
+}
+
+.faq-answers p{
+    font-family: Inter;
+    font-weight: 400;
+    color: #7E848C;
+}
 
 
 /* Main Section Ends */
