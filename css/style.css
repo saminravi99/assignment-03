@@ -182,12 +182,12 @@ font-family: 'Roboto', sans-serif; */
 
 .package-button{
     display: inline-block;
-    margin-left: 20px;
-    margin-right: 20px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
     text-decoration: none;
     background-color: #fef5fa;
     color: #3F87F5;
-    padding: 15px 60px;
+    padding: 10px 40px;
     font-family: Roboto;
     font-weight: 700;
     border-radius: 25px;
